@@ -1,0 +1,8 @@
+---
+applications:
+- name: kbpetclinic
+  memory: 512M 
+  instances: 1
+  buildpack: java_buildpack  
+  path: target/petclinic.war
+  host: kb-petclinic
