@@ -1,9 +1,9 @@
-# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
+# Spring Banking-Finance Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-Finance.png?branch=master)](https://travis-ci.org/spring-projects/spring-Finance/)
 
-## Understanding the Spring Petclinic application with a few diagrams
-<a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
+## Understanding the Spring Finance application with a few diagrams
+<a href="https://speakerdeck.com/michaelisvy/spring-Finance-sample-application">See the presentation here</a>
 
-## Running petclinic locally
+## Running Finance locally
 ```
 	git clone https://github.com/spring-projects/spring-petclinic.git
 	cd spring-petclinic
